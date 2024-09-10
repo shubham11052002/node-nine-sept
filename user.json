@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Rube",
+        "last_name": "Redpath",
+        "email": "rredpath0@wordpress.com",
+        "gender": "Bigender",
+        "salary":10000
+    },
+    {
+        "id": 2,
+        "first_name": "Giles",
+        "last_name": "Elecum",
+        "email": "gelecum1@sciencedaily.com",
+        "gender": "Male",
+        "salary":250000
+    },
+    {
+        "id": 3,
+        "first_name": "Caro",
+        "last_name": "Brands",
+        "email": "cbrands2@about.com",
+        "gender": "Female",
+        "salary":100000
+    },
+    {
+        "id": 4,
+        "first_name": "Ambur",
+        "last_name": "Pendrich",
+        "email": "apendrich3@alexa.com",
+        "gender": "Female",
+        "salary":150800
+    },
+    {
+        "id": 5,
+        "first_name": "Caritta",
+        "last_name": "Officer",
+        "email": "cofficer4@mysql.com",
+        "gender": "Female",
+        "salary":45344
+    },
+    {
+        "id": 6,
+        "first_name": "Jemmie",
+        "last_name": "Petrelli",
+        "email": "jpetrelli5@cloudflare.com",
+        "gender": "Female",
+        "salary":65545
+    },
+    {
+        "id": 7,
+        "first_name": "Randal",
+        "last_name": "Stoaks",
+        "email": "rstoaks6@seesaa.net",
+        "gender": "Male",
+        "salary":45345
+    },
+    {
+        "id": 8,
+        "first_name": "D'arcy",
+        "last_name": "Gregoratti",
+        "email": "dgregoratti7@bing.com",
+        "gender": "Genderqueer",
+        "salary":56456
+    },
+    {
+        "id": 9,
+        "first_name": "Michale",
+        "last_name": "Kaygill",
+        "email": "mkaygill8@pcworld.com",
+        "gender": "Bigender",
+        "salary":45756
+    },
+    {
+        "id": 10,
+        "first_name": "Milicent",
+        "last_name": "Poultney",
+        "email": "mpoultney9@istockphoto.com",
+        "gender": "Female",
+        "salary":35645
+    }
+]
